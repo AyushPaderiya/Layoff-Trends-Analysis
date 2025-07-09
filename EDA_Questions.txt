@@ -1,0 +1,13 @@
+
+Questions Answered in EDA:
+
+1. What is the maximum number of total layoffs and highest percentage of layoffs recorded?
+2. Which companies laid off 100% of their workforce, and how much funding had they raised?
+3. What are the total layoffs per company per year?
+4. What is the date range covered in this dataset?
+5. Which industries had the highest total layoffs?
+6. Which countries were most affected by layoffs?
+7. Which startup stages experienced the most layoffs?
+8. How did layoffs trend over time on a monthly basis?
+9. What is the cumulative number of layoffs over time (rolling sum)?
+10. Which companies had the highest number of layoffs each year (top 5 per year)?
